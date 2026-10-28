@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Werk-out",
+    "slug": "werk-out",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": { "supportsTablet": false },
+    "web": { "bundler": "metro" },
+    "assetBundlePatterns": ["**/*"]
+  }
+}
